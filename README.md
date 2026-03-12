@@ -7,6 +7,10 @@ I wanted to learn something cool and which requires CAD and improves my skills.
 ### What was the hardest part about this ?
 The hardest part was probably the CAD it's only thing in this project but it wasn't really hard but it wasn't really easy too, it took time to figure things out.
 
+### Build Instructions/Assembly Plan
+Once i get the parts/kit from hq, i'll start building it right away! i have a printer so i'll print the case after it's approved. If i need to use glue or something i'll use it or i'll just melt the filament and make it stick.
+I don't think it would be hard to assemble the mouse but if i face any issues i'll prototype the case and make it work! 
+
 ### OnShape Link
 [Here](https://cad.onshape.com/documents/4581d4e8034a6761aac777bc/w/e789f6fcdbc0d920c4d5da47/e/f9394e8a5e35307bc95d1d02?renderMode=0&uiState=69b27adfaa3c4adcda5fd8fe)
 
@@ -35,5 +39,6 @@ The hardest part was probably the CAD it's only thing in this project but it was
 The total price comes out to be 13$
 
 The pricing might slightly vary due to flash sales, and dollar market trends.
+
 
 
